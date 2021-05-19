@@ -75,3 +75,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://good-plankton-59ea3.netlify.app'
